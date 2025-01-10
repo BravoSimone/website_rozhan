@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Use the title from a page's frontmatter if it has one -->
+    <title><%= current_page.data.title || "Middleman" %></title>
+    <%= stylesheet_link_tag "site" %>
+    <%= stylesheet_link_tag "cv" %>
+    <%= javascript_include_tag "site" %>
+    <script src="https://code.iconify.design/iconify-icon/3.0.2/iconify-icon.min.js"></script>
+    <%= favicon_tag 'images/favicon.png' %>
+  </head>
+  <body>
+    <div class="navbar">
+      <% sitemap.resources.select { |r| r.metadata[:page][:order].present? }.sort_by { |r| r.metadata[:page][:order] }.each do |resource| %>
+        <%= link_to(resource.metadata[:page][:title], resource.path) %>
+      <% end %>
+    </div>
+
+    <%= yield %>
+  </body>
+</html>

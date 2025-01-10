@@ -11,6 +11,12 @@
     <%= javascript_include_tag "site" %>
   </head>
   <body>
+    <div class="navbar">
+      <% sitemap.resources.select { |resource| resource.path =~ /html$/ }.each do |resource| %>
+        <%= link_to(resource.metadata[:page][:title], resource.path) %>
+      <% end %>
+    </div>
+
     <%= yield %>
   </body>
 </html>

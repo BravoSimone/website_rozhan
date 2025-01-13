@@ -1,5 +1,6 @@
 ---
 title: Master Thesis
+order: 2
 ---
 Download the pdf version here: [master_thesis.pdf](images/thesis/master_thesis.pdf)
 

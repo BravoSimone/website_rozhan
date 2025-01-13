@@ -1,5 +1,6 @@
 ---
 title: Portfolio
+order: 1
 ---
 
 Download the pdf version here: [portfolio.pdf](images/portfolio/portfolio.pdf)

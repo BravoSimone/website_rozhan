@@ -12,7 +12,7 @@
   </head>
   <body>
     <div class="navbar">
-      <% sitemap.resources.select { |resource| resource.path =~ /html$/ }.each do |resource| %>
+      <% sitemap.resources.select { |r| r.path =~ /html$/ }.sort_by { |r| r.metadata[:page][:order] }.each do |resource| %>
         <%= link_to(resource.metadata[:page][:title], resource.path) %>
       <% end %>
     </div>

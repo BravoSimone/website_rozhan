@@ -2,6 +2,7 @@
   --text: #333;
   --background: #fafafa;
   --highlight: #2ecc40;
+  --complementary: #cc2eba;
 }
 
 pre,
@@ -17,10 +18,13 @@ pre {
 
 a,
 a:visited,
-a:hover,
 a:focus,
 a:active {
   color: var(--highlight);
+}
+
+a:hover {
+  color: var(--complementary)
 }
 
 .retro-no-decoration {

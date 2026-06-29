@@ -13,15 +13,14 @@
 
 ## WORK EXPERIENCE
 
+| **LANDSCAPING ARCHITECT** | **FREELANCE** | **REMOTE** | **FEB 2026 - PRESENT** |
+
+- Collaboration with an Irish firm on high-end residential landscape design
+
 | **PROJECT ARCHITECT** | **A&T CONSULTING** | **LATINA, ITALY** | **OCT 2025 - PRESENT** |
 
-- Architectural and Technical Project Development for multiple airport facilities, encompassing planning, execution, and documentation review
-- Retail Architecture Design & Development
-- Food and Beverage (F&B) Concept Design & Space Planning
-- Luxury Retail Environment Design
-- 3D Rendering & Visual Output
-- Metric Evaluation, Technical Documentation & Reporting
-
+- Architectural and Technical Project Development for airport retail shops: planning, execution, and documentation review
+- Reviewing furniture certification documents and technical files to ensure compliance with European standards, including fire classifications and sustainability requirements
 
 | **LANDSCAPE ARCHITECTURE INTERN** | **MASHHAD MUNICIPALITY** | **MASHHAD, IRAN** | **FEB 2021 - SEP 2021** |
 
@@ -31,9 +30,9 @@
 
 | **LANDSCAPE ARCHITECTURE INTERN** | **MASHHAD MUNICIPALITY** | **MASHHAD, IRAN** | **OCT 2019 - NOV 2020** |
 
-- Designed sustainable urban green spaces leveraging specialized software
+- Designed sustainable urban green spaces using specialized software
 - Prepared city parks for seasonal readiness and operational implementation
-- Developed the Aboutaleb Square landscape design, formally approved for execution in Mashhad
+- Developed the Aboutaleb Square landscape design, formally approved for implementation in Mashhad
 
 | **LANDSCAPE ARCHITECT** | **GREEN HALL GARDEN CENTER & PLANTS** | **MASHHAD, IRAN** | **MAR 2018 - AUG 2018** |
 
@@ -48,15 +47,17 @@
 
 ## SKILLS
 
-**SOFTWARE SKILLS:** Autodesk AutoCAD, Adobe Photoshop, ArchiCAD, Blender, SketchUp, Twinmotion, QGIS, Rayon, Microsoft Office Box
+| **SOFTWARE SKILLS:** | **Languages:** |
+| _PROFICIENT:_ Autodesk AutoCAD, Adobe Photoshop, SketchUp, Rayon | Farsi (Native) |
+| _COMPETENT:_ Blender, QGIS, Rhinoceros, Adobe InDesign | English (C1) |
+| _BEGINNER:_ Adobe Illustrator, ArchiCAD, Twinmotion | Italian (B1) |
+| **SOFT SKILLS:** | |
+| Botanical knowledge, Working in Professional Environments, Autonomous Learner, Client Communication & Coordination, Time Management | |
 
-**SOFT SKILLS:** Botany Knowledge, Working in Professional Environments, Autonomous Learner, Client Communication & Coordination, Time Management
-
-**LANGUAGES:** Farsi (Native), English (C1), Italian (B1)
 
 ## CERTIFICATIONS
 
-| **Teacher Of English To Speakers Of Other Languages (TEFL)**, The TEFL Org | SEP 2025 |
-| **IELTS BAND SCORE 7 (C1)**, British Council | OCT 2020 - OCT 2022 |
+| **Teaching English as a Foreign Language (TEFL)**, The TEFL Org | SEP 2025 |
+| **IELTS Overall Band Score: 7 (C1)**, British Council | OCT 2020 - OCT 2022 |
 
 </div>
